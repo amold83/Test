@@ -26,6 +26,7 @@ The application is developed using open software architecture principles and use
 *  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
 *  Electronic verifications through integration with federal interfaces like SSA, VCI, VLP
 *  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
+*  Application has a comprehensive error-handling framework enabling users throughout the system to see business messages that make sense to a client. The error-handling framework is built to allow for auto-recording of errors throughout the system to enable troubleshooting during operations and maintenance procedures.
 
  
 # Functions 
