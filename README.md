@@ -31,8 +31,8 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 * Search Applications
   * Search for applications the provider has submitted for individuals via different criteria 
   * Resume individual’s applications the provider has started, but not submitted
-
-
+* WIC Dashboard : Enables providers to track and manage the referrals associated with their organization
+* User Management: Lists details of everyone who has NH EASY access within an organization
 
  
 #  Features
