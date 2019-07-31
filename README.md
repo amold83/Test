@@ -11,8 +11,7 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 * Choose Health Plans :
 * Benefit Status : Clients can view their Benefit status
 * NHEP work activity Hours: Clients can now access information regarding their NHEP work program through their NH EASY account
-* Screening: 
-* Assessments 
+* Screening: Quick screening tool which lets the client check if they might be eligible for benefits before completing the full application
 * Record track Program Participation Details
 * Authentication and Authorization: NH EASY uses the state's Identity and Access management APIs for authentication and authorization.
 * Document Uploads : Allows clients to upload required documents for verifications
