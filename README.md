@@ -44,7 +44,7 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 
 
 
-# Dependencies
+# Libraries
 * NGXS : NGXS is a state manangement patter for Angular. This is a huge eco-systems of various features with respect to state management.
 * Swimlane NGX Datable : This library is used for presenting large & complex data in a tabular format which has sorting, filtering & all other features.
 * Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
