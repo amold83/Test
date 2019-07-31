@@ -27,11 +27,11 @@ Developing NH EASY occurred in an Agile manner, beginning with requirement colle
 * Swimlane NGX Datable : This library is used for presenting large & complex data in a tabular format which has sorting, filtering & all other features.
 * Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
 * Date FNS : This is a modern Java Script utility/Library for support to Dates
-Font Awesome: This library is used for icons.
-Ngx Mask : For masking SSN, Phone Numbers, Dates etc
-Ramda : A practical functional library for JavaScript programmers. This project is build around this library.
-Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
-RxJs : Reactive extensions for JS
+* Font Awesome: This library is used for icons.
+* Ngx Mask : For masking SSN, Phone Numbers, Dates etc
+* Ramda : A practical functional library for JavaScript programmers. This project is build around this library.
+* Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
+* RxJs : Reactive extensions for JS
 
 
 
