@@ -7,7 +7,7 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 # Functions 
 ## Client
 * Applications : Assist individuals applying for benefits through New Hampshire’s self-service portal 
-* Scheduling Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
+* Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
 * Choose Health Plans :
 * Benefit Status : Clients can view their Benefit status
 * NHEP work activity Hours: Clients can now access information regarding their NHEP work program through their NH EASY account
@@ -40,6 +40,9 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 *  Streamlined questions in the application entry module with user friendly forms
 *  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
+*  Electronic verifications through integration with federal interfaces like SSA, VCI, VLP
+*  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
+
 
 
 
