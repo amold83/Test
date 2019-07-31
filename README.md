@@ -4,15 +4,16 @@
  
 # Functions 
 * Applications
-* Scheduling Appointments : Users are able view, cancel, and reschedule appointments in their NH EASY account online
+* Scheduling Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
 * Choose Health Plans
-* Document Uploads : Allows users to 
-* Benefit Status
+* Document Uploads : Allows clients to upload required documents for verifications
+* Benefit Status : Clients can view their Benefit status
 * Assessments 
 * Record track Program Participation Details
 * Authentication and Authorization: NH EASY uses the state's Identity and Access management APIs for authentication and authorization.
 * Email and Text Reminders: NH EASY has added reminders through additional channels such as text messages and emails to help increase awareness. Users have the optional ability to opt in and out at any point
-* Live Chat : Allows users to interact real-time with state representatives to offer assistance
+* Live Chat : Allows clients to interact real-time with state representatives to offer assistance
+* Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
 
 
  
