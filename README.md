@@ -14,7 +14,17 @@ Developing NH EASY occurred in an Agile manner, beginning with requirement colle
 # Features and Functions
 * The solution is fully 508 compliant, and we conduct scheduled comprehensive security scans to identify and resolve any vulnerabilities.
 * Its over 120 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience, while ultimately comprising of the same base framework that allows for continuous iterative, incremental modernization.
+* Stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark. With regular compliance evaluations
+* Correspondence
+* Applications
+* Document Upload 
+* Go-Green
+
 
 
 # Awards
-The resulting application remains modernized with the latest open-source technologies available. NH EASY won a “Best Fit Integrator” award and is a national leader in self-service portals and real-time eligibility determination. 
+* Best Fit Integrator award and is a national leader in self-service portals and real-time eligibility determination. 
+* American Council for Technology’s Excelence.Gov Award Finalist – Enhancing the Customer Experience category
+* Computerworld Honors Program Laureate 
+
+
