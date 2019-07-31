@@ -21,7 +21,14 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 * Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
 
 ## Provider
+* Access to portal functions based on pre-determined roles. Ability to add / edit user profiles based on roles
 * LTSS Dashboards: LTSS dashboard is a one stop shop for creating, submitting and tracking assessments electronically via NH EASY 
+* CFI Dashboards: CFI dashboard will be used by Case Management Agency (CMA) Supervisors and Case Managers to track all ongoing activities related to managing plans and services  
+* Manage Cases: Manage Cases screen lists all the clients that have given the provider organization full access to their NH EASY case information
+** Apply for Assistance
+*** Assist individuals applying for benefits through New Hampshire’s self-service portal 
+*** Enter information for all records throughout the application for the individual
+
 
 
 
