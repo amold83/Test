@@ -36,11 +36,11 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 
  
 #  Features
-*  The application has a responsive design for ease of use 
-*  Streamlined questions and user-friendly forms
-*  The solution is fully 508 compliant
+*  The application has a responsive user interface with a modern look and feel across browsers and devices (including mobile)
+*  The application is fully 508 compliant
+*  Streamlined questions in the application entry module with user friendly forms
 *  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
-*  Nudges: There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
+*  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
 
 
