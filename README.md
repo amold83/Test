@@ -1,6 +1,6 @@
 _Contents:_
 
-[NH EASY](#nheasy) | [Libraries](#libraries)  | 
+[NH EASY](#nh-easy) | [Libraries](#libraries)  | 
 
 # NH EASY 
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's core module - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
