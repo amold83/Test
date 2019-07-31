@@ -19,6 +19,8 @@ Developing NH EASY occurred in an Agile manner, beginning with requirement colle
 * Applications
 * Document Upload 
 * Go-Green
+* Benefit Status
+* Assessments
 
 
 
