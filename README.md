@@ -56,10 +56,4 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 * RxJs : Reactive extensions for JS
 
 
-# Miscellaneous
-* We conduct scheduled comprehensive security scans to identify and resolve any vulnerabilities.
-* Regular compliance evaluations
-
-
-
 
