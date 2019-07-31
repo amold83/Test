@@ -1,12 +1,12 @@
 # NH EASY 
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's core module - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
 
-The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow. The developed webpages in the application are 508 complaint, user friendly, and intuitive. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
+The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow. The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
 # Libraries
-* NGXS : NGXS is a state manangement patter for Angular. This is a huge eco-systems of various features with respect to state management.
-* Swimlane NGX Datable : This library is used for presenting large & complex data in a tabular format which has sorting, filtering & all other features.
+* NGXS : NGXS is used for state management
+* Swimlane NGX Datable : Used for presenting large & complex data in a tabular format which has features like sorting, filtering, etc.
 * Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
 * Date FNS : This is a modern Java Script utility/Library for support to Dates
 * Font Awesome: This library is used for icons.
