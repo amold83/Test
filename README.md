@@ -11,13 +11,12 @@ The application is developed using open software architecture principles and use
 # Libraries
 * NGXS : NGXS is used for state management
 * Swimlane NGX Datable : Used for presenting large & complex data in a tabular format which has features like sorting, filtering, etc.
-* Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
-* Date FNS : This is a modern Java Script utility/Library for support to Dates
-* Font Awesome: This library is used for icons.
-* Ngx Mask : For masking SSN, Phone Numbers, Dates etc
-* Ramda : A practical functional library for JavaScript programmers. This project is build around this library.
-* Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
-* RxJs : Reactive extensions for JS
+* Bootstrap (V-4) : Used for mobile first responsive design, to build web-site for Mobile, tablet and desktops.
+* Date FNS : Modern Java Script utility/library for Date functions.
+* Font Awesome: Library used for Icons.
+* Ngx Mask : For masking sensitive data like SSN, Phone Numbers, etc.
+* Ramda and Ramda Adjunct : Library of Javascript utility functions
+* RxJs : Reactive extensions for Javascript to compose asynchronous or callback based code
 
 #  Features
 *  The application has a responsive user interface with a modern look and feel across browsers and devices (including mobile)
