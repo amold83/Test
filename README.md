@@ -2,20 +2,28 @@
  NH EASY, is New Hampshire DHHS's IE&E portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's signature modules - Application for Services. Its over 120 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.
  
  
-# Functions
+# Functions 
 * Applications
-* 
-* Document Upload 
-* Go-Green
+* Scheduling Appointments : Users are able view, cancel, and reschedule appointments in their NH EASY account online
+* Choose Health Plans
+* Document Uploads : Allows users to 
 * Benefit Status
 * Assessments 
-* Authentication and Authorization
+* Record track Program Participation Details
+* Authentication and Authorization: NH EASY uses the state's Identity and Access management APIs for authentication and authorization.
+* Email and Text Reminders: NH EASY has added reminders through additional channels such as text messages and emails to help increase awareness. Users have the optional ability to opt in and out at any point
+* Live Chat : Allows users to interact real-time with state representatives to offer assistance
+
+
  
-# Features
-*  The application has a responsive design for ease of use
+#  Features
+*  The application has a responsive design for ease of use 
 *  Streamlined questions and user-friendly forms
 *  The solution is fully 508 compliant
 *  Stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark
+*  Go-Green 
+*  Nudges : There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in
+
 
 
 # Dependencies
