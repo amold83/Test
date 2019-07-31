@@ -6,7 +6,7 @@
 # Design Goals 
 When first designed and implemented, NH EASY aimed to enable a “bricks to clicks” transition for New Hampshire. Initial project goals were to implement NH EASY and incrementally the gateway and application throughout the lifecycle of the portal. 
 
-# Development methodology
+# Development Methodology
 Developing NH EASY occurred in an Agile manner, beginning with requirement collection during a Discovery Sprint 0. We conducted subsequent and iterative user research, prototyping, and screen building. These screens were then improved upon and eventually modernized throughout future sprints and efforts. NH EASY was designed from a technical perspective with a propensity for Agile, “learn fast, fail fast” mentality and open-source technologies. With agile development, we prioritized features that delivered immediate, high-impact value to the customer. In the spirit of increasing efficiency and reducing future rework, we parsed functionality into small components that are easily interchangeable and recyclable. We focused on solutioning user-friendly features, and placed our efforts in responsiveness, look and feel, and user experience, as opposed to flashy fonts or unnecessary features. 
 
 # Features
