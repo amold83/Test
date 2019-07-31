@@ -15,6 +15,13 @@ The application is developed using open software architecture principles and use
 * Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
 * RxJs : Reactive extensions for JS
 
+#  Features
+*  The application has a responsive user interface with a modern look and feel across browsers and devices (including mobile)
+*  The application is fully 508 compliant
+*  Streamlined questions in the application entry module with user friendly forms
+*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
+*  Electronic verifications through integration with federal interfaces like SSA, VCI, VLP
+*  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
 
  
 # Functions 
@@ -31,6 +38,8 @@ The application is developed using open software architecture principles and use
 * Email and Text Reminders: NH EASY has added reminders through additional channels such as text messages and emails to help increase awareness. Users have the optional ability to opt in and out at any point
 * Live Chat : Allows clients to interact real-time with state representatives to offer assistance
 * Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
+*  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
+
 
 ## Provider
 * Access to portal functions based on pre-determined roles. Ability to add / edit user profiles based on roles
@@ -47,14 +56,6 @@ The application is developed using open software architecture principles and use
 * User Management: Lists details of everyone who has NH EASY access within an organization
 
  
-#  Features
-*  The application has a responsive user interface with a modern look and feel across browsers and devices (including mobile)
-*  The application is fully 508 compliant
-*  Streamlined questions in the application entry module with user friendly forms
-*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
-*  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
-*  Electronic verifications through integration with federal interfaces like SSA, VCI, VLP
-*  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
 
 
 
