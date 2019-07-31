@@ -11,7 +11,7 @@ Developing NH EASY occurred in an Agile manner, beginning with requirement colle
 
 # Dependencies
 
-# Features
+# Features and Functions
 * The solution is fully 508 compliant, and we conduct scheduled comprehensive security scans to identify and resolve any vulnerabilities.
 * Its over 120 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience, while ultimately comprising of the same base framework that allows for continuous iterative, incremental modernization.
 
