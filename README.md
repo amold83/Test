@@ -1,8 +1,21 @@
 # NH EASY 
-NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's signature modules - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
+NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's core module - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
 
-The application is developed using Angular framework. Angular follows a Model-View-Controller framework that decouples the web page rendering components of the application from business logic. Webpages are developed using Type Script, HTML, and SASS stylesheets. The developed webpages in the application are 508 complaint, user friendly, and intuitive. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. The application implements a secure interface and authorization-based page flow.
- 
+The application is developed using Angular framework. Webpages are developed using Type Script, HTML, and SASS stylesheets. The developed webpages in the application are 508 complaint, user friendly, and intuitive. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. Developed using Open standards, portable, The application implements a secure interface and authorization-based page flow.
+
+
+# Libraries
+* NGXS : NGXS is a state manangement patter for Angular. This is a huge eco-systems of various features with respect to state management.
+* Swimlane NGX Datable : This library is used for presenting large & complex data in a tabular format which has sorting, filtering & all other features.
+* Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
+* Date FNS : This is a modern Java Script utility/Library for support to Dates
+* Font Awesome: This library is used for icons.
+* Ngx Mask : For masking SSN, Phone Numbers, Dates etc
+* Ramda : A practical functional library for JavaScript programmers. This project is build around this library.
+* Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
+* RxJs : Reactive extensions for JS
+
+
  
 # Functions 
 ## Client
@@ -44,18 +57,6 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 *  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
 
 
-
-
-# Libraries
-* NGXS : NGXS is a state manangement patter for Angular. This is a huge eco-systems of various features with respect to state management.
-* Swimlane NGX Datable : This library is used for presenting large & complex data in a tabular format which has sorting, filtering & all other features.
-* Bootstrap (V-4) : Mobile first responsive design, to design the web-site in Mobile, tablet and desktops.
-* Date FNS : This is a modern Java Script utility/Library for support to Dates
-* Font Awesome: This library is used for icons.
-* Ngx Mask : For masking SSN, Phone Numbers, Dates etc
-* Ramda : A practical functional library for JavaScript programmers. This project is build around this library.
-* Ramda Adjunct : Another JS library, similar to Ramda, but this has more options/features than the Ramda
-* RxJs : Reactive extensions for JS
 
 
 
