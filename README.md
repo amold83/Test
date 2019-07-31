@@ -25,10 +25,12 @@ The application is developed using Angular framework. Angular follows a Model-Vi
 * LTSS Dashboards: LTSS dashboard is a one stop shop for creating, submitting and tracking assessments electronically via NH EASY 
 * CFI Dashboards: CFI dashboard will be used by Case Management Agency (CMA) Supervisors and Case Managers to track all ongoing activities related to managing plans and services  
 * Manage Cases: Manage Cases screen lists all the clients that have given the provider organization full access to their NH EASY case information
-.... * Apply for Assistance
-.... Assist individuals applying for benefits through New Hampshire’s self-service portal 
-.... Enter information for all records throughout the application for the individual
-
+* Apply for Assistance
+ * Assist individuals applying for benefits through New Hampshire’s self-service portal. 
+ * Enter information for all records throughout the application for the individual
+* Search Applications
+ * Search for applications the provider has submitted for individuals via different criteria 
+ * Resume individual’s applications the provider has started, but not submitted
 
 
 
