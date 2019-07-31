@@ -1,7 +1,9 @@
 # NH EASY 
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's core module - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
 
-The application is developed using Angular framework. Webpages are developed using Type Script, HTML, and SASS stylesheets. The developed webpages in the application are 508 complaint, user friendly, and intuitive. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. Developed using Open standards, portable, The application implements a secure interface and authorization-based page flow.
+The application is developed using open standards like Angular framework, Type Script, HTML, and SASS stylesheets supporting programming language and platform neutrality.
+
+The application implements a secure interface and authorization-based page flow. The developed webpages in the application are 508 complaint, user friendly, and intuitive. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
 # Libraries
