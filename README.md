@@ -5,8 +5,6 @@ _Contents:_
 # NH EASY 
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. This repository contains the code base for one of NH EASY's core modules - Application for Services. 
 
-Note: NH EASY also has code for other functions like Gateway toAccount Management, Recertification, Change Reporting, Reapply that has not been provided in this repository.
-
 The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
@@ -36,7 +34,9 @@ The application is developed using open software architecture principles and use
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
 
-# Additional Functions Deloitte solution offers as part of the IE&E solution
+#  Additional Functions Deloitte solution offers as part of the IE&E solution
+NH EASY solution offers functions like Gateway toAccount Management, Recertification, Change Reporting, Reapply that has not been provided in this repository.
+
 ## Client
 * Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
 * Benefit Status : Clients can view their Benefit status
