@@ -2,7 +2,7 @@ _Contents:_
 
 [NH EASY](#nh-easy) | [Libraries](#libraries)  | [Features](#features) | [Functions](#application-flow-functions) |
 
-# NH EASY Application for Services
+# NH EASY Application
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. This repository contains the code base for one of NH EASY's core modules - Application for Services. 
 
 The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
@@ -28,7 +28,7 @@ The application is developed using open software architecture principles and use
 *  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
 
  
-# Application Flow Functions 
+# Functions 
 * Applications : Assist individuals applying for benefits through New Hampshire’s self-service portal 
 * Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
