@@ -34,7 +34,7 @@ The application is developed using open software architecture principles and use
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
 
-#  Additional Functions Deloitte solution offers as part of the IE&E solution
+#  Additional Functions Deloitte solution offers as part of the Comprehensive IE&E solution (code not in this repository)
 NH EASY solution offers functions like Gateway toAccount Management, Recertification, Change Reporting, Reapply that has not been provided in this repository.
 
 ## Client
