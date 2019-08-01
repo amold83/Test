@@ -3,9 +3,11 @@ _Contents:_
 [NH EASY](#nh-easy) | [Libraries](#libraries)  | [Features](#features) | [Functions](#functions) |
 
 # NH EASY 
-NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte. This repository contains the code base for one of NH EASY's core module - Application for Services. Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience. 
+NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. This repository contains the code base for one of NH EASY's core modules - Application for Services. 
 
-The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow. The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
+Note: NH EASY also has code for other functions like Gateway toAccount Management, Recertification, Change Reporting, Reapply that has not been provided in this repository.
+
+The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
 # Libraries
@@ -32,7 +34,6 @@ The application is developed using open software architecture principles and use
 ## Client
 * Applications : Assist individuals applying for benefits through New Hampshire’s self-service portal 
 * Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
-* Choose Health Plans :
 * Benefit Status : Clients can view their Benefit status
 * NHEP work activity Hours: Clients can now access information regarding their NHEP work program through their NH EASY account
 * Screening: Quick screening tool which lets the client check if they might be eligible for benefits before completing the full application
