@@ -10,7 +10,7 @@ Note: NH EASY also has code for other functions like Gateway toAccount Managemen
 The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
-# Libraries
+# Libraries 
 * NGXS : NGXS is used for state management
 * Swimlane NGX Datable : Used for presenting large & complex data in a tabular format which has features like sorting, filtering, etc.
 * Bootstrap (V-4) : Used for mobile first responsive design, to build web-site for Mobile, tablet and desktops.
@@ -21,13 +21,13 @@ The application is developed using open software architecture principles and use
 * RxJs : Reactive extensions for Javascript to compose asynchronous or callback based code
 
 #  Features
-*  The application has a responsive user interface with a modern look and feel across browsers and devices (including mobile)
-*  The application is fully 508 compliant
-*  Streamlined questions in the application entry module with user friendly forms
-*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
+*  Responsive user interface with a modern look and feel across browsers and devices (including mobile)
+*  Fully 508 compliant
 *  Electronic verifications through integration with federal interfaces like  SSA, VCI, VLP
 *  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
-*  Application has a comprehensive error-handling framework enabling users throughout the system to see business messages that make sense to a client. The error-handling framework is built to allow for auto-recording of errors throughout the system to enable troubleshooting during operations and maintenance procedures.
+*  Comprehensive error-handling framework enabling users throughout the system to see business messages that make sense to a client. The error-handling framework is built to allow for auto-recording of errors throughout the system to enable troubleshooting during operations and maintenance procedures.
+*  Streamlined questions in the application entry module with user friendly forms
+*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
 
  
 # Functions 
