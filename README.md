@@ -35,7 +35,7 @@ The application is developed using open software architecture principles and use
 
 
 #  Additional Functions Deloitte solution offers as part of the Comprehensive IE&E solution (code not in this repository)
-NH EASY solution offers functions like Gateway to Services (Account Management), Recertification, Change Reporting, Reapply that has not been provided in this repository.
+Deloitte's comprehensive IE&E solution also offers functions like Gateway to Services (Account Management), Recertification, Change Reporting, Reapply that has not been provided in this repository.
 
 ## Client
 * Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
