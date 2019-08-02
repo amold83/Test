@@ -18,23 +18,8 @@ The application is developed using open software architecture principles and use
 * Ramda and Ramda Adjunct : Library of Javascript utility functions
 * RxJs : Reactive extensions for Javascript to compose asynchronous or callback based code
 
-#  Features
-*  Responsive user interface with a modern look and feel across browsers and devices (including mobile)
-*  Fully 508 compliant
-*  Electronic verifications through integration with federal interfaces like  SSA, VCI, VLP
-*  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
-*  Comprehensive error-handling framework enabling users throughout the system to see business messages that make sense to a client. The error-handling framework is built to allow for auto-recording of errors throughout the system to enable troubleshooting during operations and maintenance procedures.
-*  Streamlined questions in the application entry module with user friendly forms
-*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
-
- 
-# Functions 
-* Applications : Assist individuals applying for benefits through New Hampshire’s self-service portal 
-* Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
-*  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
-
 # Source Code Structure
-The application code structure is as below:
+The folder structure in the root folder is as below :
 ```
     .
     ├── app                       # Application code
@@ -60,6 +45,20 @@ The folder structure within the app folder is as below:
 
 ```
 
+#  Features
+*  Responsive user interface with a modern look and feel across browsers and devices (including mobile)
+*  Fully 508 compliant
+*  Electronic verifications through integration with federal interfaces like  SSA, VCI, VLP
+*  Integration with third party services like Trumpia for text messaging, Experian for Identity proofing, phone, email and physical address validation.
+*  Comprehensive error-handling framework enabling users throughout the system to see business messages that make sense to a client. The error-handling framework is built to allow for auto-recording of errors throughout the system to enable troubleshooting during operations and maintenance procedures.
+*  Streamlined questions in the application entry module with user friendly forms
+*  Code follows stringent security standards based on the National Institute of Standards and Technology (NIST) benchmark 
+
+ 
+# Functions 
+* Applications : Assist individuals applying for benefits through New Hampshire’s self-service portal 
+* Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
+*  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
 #  Additional Functions Deloitte solution offers as part of the Comprehensive IE&E solution (code not in this repository)
 Deloitte's comprehensive IE&E solution also offers functions like Gateway to Services (Account Management), Recertification, Change Reporting, Reapply that has not been provided in this repository.
