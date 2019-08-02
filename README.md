@@ -44,9 +44,9 @@ The application is developed using open software architecture principles and use
     ├── models                    # Model classes
     ├── pipes                     # Data formatters
     ├── scss                      # Styling classes
-    ├── section                   # 
-    ├── services                  #  
-    └── state                     #
+    ├── section                   # View, Model, Controller for the web pages
+    ├── services                  # REST client to interface with backend APIs
+    └── state                     # State management
 
 ```
 
