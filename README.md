@@ -38,7 +38,8 @@ The application is developed using open software architecture principles and use
 Deloitte's comprehensive IE&E solution also offers functions like Gateway to Services (Account Management), Recertification, Change Reporting, Reapply that has not been provided in this repository.
 
 ## Client
-* Appointments : Clients are able view, cancel, and reschedule appointments in their NH EASY account online
+* Clients and submit Recertifications, Reapplications and Change Reporting
+* Clients are able view, cancel, and reschedule appointments in their NH EASY account online
 * Benefit Status : Clients can view their Benefit status
 * NHEP work activity Hours: Clients can now access information regarding their NHEP work program through their NH EASY account
 * Screening: Quick screening tool which lets the client check if they might be eligible for benefits before completing the full application
