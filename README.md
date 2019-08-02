@@ -34,9 +34,19 @@ The application is developed using open software architecture principles and use
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
 # Source Code Structure
+The application code structure is as below:
+```
+    .
+    ├── app                       # Application code
+    ├── assets                    # Images used by the application
+    └── environment               # Environment configuration files
+
+```
+
+The folder structure within the app folder is as below:
 ```
     app
-    ├── classes                   # 
+    ├── classes                   # Base class for application pages
     ├── components                # Common Angular components 
     ├── congrats                  # Congratulations page 
     ├── directives                # Reusable custom components
