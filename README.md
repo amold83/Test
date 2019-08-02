@@ -1,6 +1,6 @@
 _Contents:_
 
-[NH EASY](#nh-easy) | [Libraries](#libraries)  | [Features](#features) | [Functions](#functions) |
+[NH EASY](#nh-easy) | [Libraries](#libraries) | [Source Code Structure](#source-code-structure)  | [Features](#features) | [Functions](#functions) |
 
 # NH EASY Application
 NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. This repository contains the code base for one of NH EASY's core modules - Application for Services. 
@@ -8,7 +8,7 @@ NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and develope
 The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
 
 
-# Libraries 
+# Libraries Used
 * NGXS : NGXS is used for state management
 * Swimlane NGX Datable : Used for presenting large & complex data in a tabular format which has features like sorting, filtering, etc.
 * Bootstrap (V-4) : Used for mobile first responsive design, to build web-site for Mobile, tablet and desktops.
