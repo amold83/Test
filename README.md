@@ -33,6 +33,12 @@ The application is developed using open software architecture principles and use
 * Real time processing: NH EASY is integrated with the Real time Processing APIs to process MAGI or Family Planning applications in real time
 *  Nudges:There are context-specific nudges throughout NH EASY to provide additional reminders and help for different scenarios. Banners across the top of the user’s dashboard homepage when they log in.
 
+# Source Code Structure
+```
+* Classes
+* Components
+```
+
 
 #  Additional Functions Deloitte solution offers as part of the Comprehensive IE&E solution (code not in this repository)
 Deloitte's comprehensive IE&E solution also offers functions like Gateway to Services (Account Management), Recertification, Change Reporting, Reapply that has not been provided in this repository.
