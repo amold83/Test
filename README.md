@@ -3,9 +3,10 @@ _Contents:_
 [NH EASY](#nh-easy) | [Libraries](#libraries) | [Source Code Structure](#source-code-structure)  | [Features](#features) | [Functions](#functions) |
 
 # NH EASY Application
-NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. This repository contains the code base for one of NH EASY's core modules - Application for Services. 
-
+NH EASY, is New Hampshire DHHS's IE&E self-service portal, designed and developed by Deloitte working with State of NH. 
 The application is developed using open software architecture principles and uses Angular framework, Type Script, HTML, and SASS stylesheets. The application implements a secure interface and authorization-based page flow.Its over 45 distinct pages allow for functionality to be nuanced and compartmentalized enough to respond to user desires and provide an enhanced user experience.  The application is intuitive, user friendly, and 508 complaint. Additionally, the application uses a cache management strategy for optimizing requests with the Business APIs. 
+
+Note: This repository only contains the Angular code for Applications module in NH EASY. It does not contain the code for other functions like Gateway to Services (Account Management), Recertification, Change Reporting and Reapply. The repository also does not contain the code for backend REST API.
 
 
 # Libraries Used
