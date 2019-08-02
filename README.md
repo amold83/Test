@@ -36,17 +36,17 @@ The application is developed using open software architecture principles and use
 # Source Code Structure
 ```
     app
-    ├── classes                   # This folder has 
-    ├── components                # Common angular components to be reused througout the applciation
+    ├── classes                   # 
+    ├── components                # Common Angular components 
     ├── congrats                  # Congratulations page 
     ├── directives                # Reusable custom components
     ├── helpers                   # Custom Utility functions
-    ├── models                    # 
-    ├── pipes                     # Tools and utilities
-    ├── scss                      #
-    ├── section                   #
-    ├── services                  # Tools and utilities 
-    └── state
+    ├── models                    # Model classes
+    ├── pipes                     # Data formatters
+    ├── scss                      # Styling classes
+    ├── section                   # 
+    ├── services                  #  
+    └── state                     #
 
 ```
 
